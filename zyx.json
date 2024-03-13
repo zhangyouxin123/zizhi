@@ -863,7 +863,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/zhangyouxin123/zizhi/main/zhiboyuan.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
